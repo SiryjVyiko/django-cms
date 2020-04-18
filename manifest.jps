@@ -12,7 +12,7 @@ nodes:
   cloudlets: 8
 onInstall:  
   deploy:
-    archive: ${baseUrl}/public.php?service=files&t=37fb2dedbc72453fe73fbe2e890a10f2&download
+    archive: https://app.demo.jelastic.com/xssu/rest/download/RTYYHFNvAgdeBgsfZwE%2BE0cWWRECSk0QXUNrQnp0fgdHF0ICDwYAQmNTTEBI
     name: djangoCMS.zip
     context: ROOT
 success: |
